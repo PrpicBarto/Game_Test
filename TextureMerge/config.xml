@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Redirect>config.xml</Redirect>
+  <UseLastWindowSize>true</UseLastWindowSize>
+  <UseLastPathToSave>true</UseLastPathToSave>
+  <UseLastSaveImageName>true</UseLastSaveImageName>
+  <CheckForUpdates>true</CheckForUpdates>
+  <SkipVersion />
+  <EnableSendTo>false</EnableSendTo>
+  <WindowWidth>1300</WindowWidth>
+  <WindowHeight>500</WindowHeight>
+  <PathToSave>C:\Users\barto\Documents\GitHub\DitherTest\GameOfTheWeek1\Assets\Stefan_wagon\textures</PathToSave>
+  <SaveImageName>WagonWheels.png</SaveImageName>
+  <DefaultColorInt>0</DefaultColorInt>
+</Config>
